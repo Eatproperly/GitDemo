@@ -13,3 +13,4 @@ hello L! hello git!
 hello L! hello git!
 hello L! hello git!
 remote merge test
+merge by lhc
